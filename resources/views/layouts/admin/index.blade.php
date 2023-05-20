@@ -12,7 +12,7 @@
     <link rel="stylesheet" type="text/css" href="{{asset('dashboard_files/css/main.css')}}">
     <!-- Font-icon css-->
     <link rel="stylesheet" type="text/css"
-          href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     {{--magnific-popup--}}
     <link rel="stylesheet" href="{{asset('dashboard_files/js/plugins/magnific-popup/magnific-popup.css')}}">
 

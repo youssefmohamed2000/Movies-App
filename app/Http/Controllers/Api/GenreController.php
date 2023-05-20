@@ -15,6 +15,7 @@ class GenreController extends Controller
     public function index()
     {
         $genres = Genre::query()->paginate(8);
+
         return $this->sendResponse(GenreResource::collection($genres), 'All Genre Sent');
     }
 }
