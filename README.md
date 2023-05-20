@@ -1,5 +1,3 @@
-Sure, here's an example README file for a movies app built using Laravel, with movie data fetched from the TMDB REST API, and roles and permissions to control user access. The app also allows users to toggle their favorite movies:
-
 # Movies App with TMDB API Integration and Role-based Access Control
 
 This is a sample movies app built using Laravel, with movie data fetched from the TMDB REST API. The app allows users to browse movies, search for movies by title and toggle their favorite movies. The app also includes a role-based access control system to control user access, and administrators can manage roles and permissions.
